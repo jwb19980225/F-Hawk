@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lalalalalalalaalhhhhddd
+=======
+lalalalalalalaalhhhhyyy
+>>>>>>> 4ea419d6617653d801ecc6d9e3449ed3c2d4ad0e
